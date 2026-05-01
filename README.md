@@ -58,6 +58,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🗺️ - [Location Services](#location-services)
 - 🎯 - [Marketing](#marketing)
 - 📝 - [Note Taking](#note-taking)
+- 🧠 - [Knowledge & Memory](#knowledge-memory)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
 - ⚙️ - [Workflow Automation](#workflow-automation)
 - 🤖 - [System Automation](#system-automation)
@@ -264,6 +265,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+
+<br />
+
+## 🧠 <a name="knowledge-memory"></a>Knowledge & Memory
+
+> Persistent memory and knowledge systems for AI agents. Enables models to maintain, retrieve, and share context across sessions.
+
+- <img src="https://raw.githubusercontent.com/samvallad33/vestige/main/assets/vestige-icon.png" height="14"/> [Vestige](https://github.com/samvallad33/vestige) - Local-first cognitive memory for AI agents with FSRS-6 scheduling, smart ingest, SQLite storage, portable sync, an embedded dashboard, and optional Claude Code/Cursor/Codex hooks.
 
 <br />
 
