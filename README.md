@@ -43,6 +43,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 | [<div align="center"><img src="https://wassist.app/whatsmcp.png" height="20"/></div>](https://wassist.app/mcp/) | [WhatsMCP](https://wassist.app/mcp/) | [WhatsApp x MCP](https://wassist.app/mcp/) |
 | [<div align="center"><img src="https://github.com/user-attachments/assets/7d5442e5-4542-4942-afde-a55d5288a40c" height="20"/></div>](https://code.visualstudio.com/) | [Visual Studio Code](https://code.visualstudio.com/) | [VS Code x MCP](https://code.visualstudio.com/docs/copilot/chat/mcp-servers) |
 
+
 <br />
 
 ## Server Implementations
@@ -51,6 +52,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📦 - [Sandbox & Virtualization](#virtualization)
 - 🔄 - [Version Control](#version-control)
 - ☁️ - [Cloud Storage](#cloud-storage)
+- 🗒️ - [Document Processing](#document-processing)
 - 🗄️ - [Databases](#databases)
 - 💬 - [Communication](#communication)
 - 📈 - [Monitoring](#monitoring)
@@ -142,6 +144,15 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.box.com/themes/custom/box/favicons/favicon.ico" height="14"/> [Box](https://developer.box.com/guides/box-mcp/)<sup><sup>⭐</sup></sup> - Box MCP Server allows third party AI agents from platforms like Copilot Studio, Cursor, Claude for Desktop to access Box content seamlessly. It extends the agent's capabilities by allowing it to perform actions related to content stored in Box.
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - A serverless video database to easily store, index, search, and stream videos. VideoDB uses AI to automatically tag scenes, generate accurate transcriptions, and quickly retrieve video moments with simple queries.
 - <img src="https://www.microsoft.com/favicon.ico" height="14"/> [Microsoft 365](https://github.com/softeria/ms-365-mcp-server) - MCP server that connects to the whole Microsoft 365 suite (Microsoft Office, Outlook, etc.) using Graph API (including mail, files, Excel, calendar)
+
+<br />
+
+## 🗒️ <a name="document-processing"></a> Document Processing
+
+> Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
+
+- <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+
 
 <br />
 
@@ -264,6 +275,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- <img src="https://cdn.simpleicons.org/rust/DEA584" height="14"/> [Vestige](https://github.com/samvallad33/vestige) - Local-first persistent memory for AI agents. Stores cross-session context on the user's machine; works with any MCP client.
 
 <br />
 
